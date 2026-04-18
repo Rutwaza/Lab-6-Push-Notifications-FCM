@@ -1,9 +1,13 @@
 # 📱 Push Notifications with Firebase Cloud Messaging (FCM)
 
-## 👨‍🎓 Student Information
+## 👨‍🎓 Group Information
 
 * **Name:** Nelson RUTWAZA
 * **Reg No:** 223026976
+* **Name:** Beatrice UWAJENEZA
+* **Reg No:** 223028059
+* **Name:** Aimable SEMUHUNGU
+* **Reg No:** 2230262680
 * **Course:** Mobile Application Development
 * **Year:** 3rd Year CSE
 * **Institution:** University fo Rwanda
@@ -79,6 +83,20 @@ The notification was successfully received on the mobile device.
 * Popup dialog shown on message receive
 
 ---
+### 📄 Observations
+
+The following are handwritten observations recorded during the lab:
+
+![Observations](documents/observations_1.png)
+
+---
+
+### 🔑 Key Steps Followed
+
+Below are the handwritten key steps followed to successfully implement the lab:
+
+![Key Steps](documents/steps_1.png)
+
 
 ## 📌 Conclusion
 
